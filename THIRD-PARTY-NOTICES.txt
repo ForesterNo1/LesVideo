@@ -1,0 +1,12 @@
+LesVideo 0.1.0 — Лицензии распространяемых компонентов:
+- Python 3.14.4 x64: PSF License (https://docs.python.org/3/license.html)
+- yt-dlp: Unlicense (https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE)
+- faster-whisper / CTranslate2 / tokenizers / huggingface-hub: MIT / Apache-2.0
+- onnxruntime / av / numpy: MIT / BSD-3-Clause
+- Whisper base (Systran/faster-whisper-base): MIT License
+- FFmpeg / FFprobe: LGPL v2.1+ / GPL (в зависимости от конфигурации сборки; см. VERSIONS.txt)
+- Ollama: MIT License (https://github.com/ollama/ollama/blob/main/LICENSE)
+- Qwen3 (qwen3:4b-instruct-2507-q4_K_M): Apache-2.0 License
+- Microsoft Edge WebView2 Runtime: Microsoft Software License Terms
+- Node.js: MIT и лицензии включённых компонентов (bin/NODE-LICENSE.txt)
+

@@ -5,7 +5,7 @@
 <h1 align="center">LesVideo</h1>
 <p align="center"><strong>Из длинной записи — в вертикальный клип.</strong></p>
 <p align="center">Локальная видеостудия для стримеров, авторов и монтажёров на Windows.</p>
-<p align="center"><a href="https://t.me/lesvideo_studio"><strong>Скачать LesVideo 0.1.0 в Telegram</strong></a> · <a href="#возможности">Возможности</a> · <a href="#как-начать">Как начать</a></p>
+<p align="center"><a href="https://t.me/lesvideo_studio"><strong>Канал релизов LesVideo</strong></a> · <a href="#возможности">Возможности</a> · <a href="#как-начать">Как начать</a></p>
 
 ## Что делает LesVideo
 
